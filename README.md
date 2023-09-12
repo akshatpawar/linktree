@@ -1,4 +1,4 @@
-# Link Tree page made with only HTML and CSS
+# LinkTree page made with only HTML and CSS
 
 <div>
   <img src="https://cdn.upload.systems/uploads/FYUjPCQR.jpg" width="76%">
